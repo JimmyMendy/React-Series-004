@@ -35,11 +35,4 @@ const App = () => {
 
 export default App;
 
-//const KEY = 'AIzaSyCN6e98GjAfa_d4E4mISSn8uCP6g5b1DvE';
 
-/*
-part: 'snippet',
-        maxResults: 5,
-        type: 'video',
-        key: KEY,
-*/
